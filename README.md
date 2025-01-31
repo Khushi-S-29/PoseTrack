@@ -1,10 +1,10 @@
-# **Poseify: Human Pose Estimation App with OpenCV**
+# **Poseify: Human Pose Estimation**
 
 Poseify is a cutting-edge application designed to perform human pose estimation using OpenCV and TensorFlow models. With an intuitive interface powered by Streamlit, users can upload images and visualize skeletal key points and connections for pose analysis.
 
 ---
 
-## 🚀 **Features**
+## **Features**
 - **Custom Image Upload:** Analyze poses by uploading images.
 - **Keypoint Visualization:** Detect and connect essential body points.
 - **Threshold Control:** Adjustable detection sensitivity for precise results.
@@ -12,7 +12,7 @@ Poseify is a cutting-edge application designed to perform human pose estimation 
 
 ---
 
-## 🔧 **Tech Stack**
+## **Tech Stack**
 - **Programming Language:** Python
 - **Libraries & Tools:**
   - OpenCV
@@ -23,7 +23,7 @@ Poseify is a cutting-edge application designed to perform human pose estimation 
 
 ---
 
-## ⚙️ **Installation Instructions**
+##  **Installation Instructions**
 
 1. Clone this repository:
    ```bash
@@ -50,12 +50,10 @@ Poseify is a cutting-edge application designed to perform human pose estimation 
 
 ---
 
-## 📸 **Usage**
+## **Usage**
 
 1. Upload an image containing a clear human figure.
 2. Adjust the threshold slider to fine-tune keypoint detection.
 3. View the processed image with the estimated pose.
 
-
-
-Happy Coding! 🚀
+Happy Coding!
